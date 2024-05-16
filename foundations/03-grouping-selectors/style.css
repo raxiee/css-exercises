@@ -1,4 +1,5 @@
-button {
+.first_class,
+.second_class {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif
 }
